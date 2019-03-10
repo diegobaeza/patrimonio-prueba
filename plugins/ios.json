@@ -1,0 +1,24 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "cl.diego.patrimonio"
+    },
+    "cordova-plugin-googlemaps": {
+      "API_KEY_FOR_IOS": "AIzaSyBsqOcSBoso9JyRgAVXBpJW7vwGpbJ1Jew",
+      "LOCATION_WHEN_IN_USE_DESCRIPTION": "This app wants to get your location while this app runs only.",
+      "LOCATION_ALWAYS_USAGE_DESCRIPTION": "This app wants to get your location always, even this app runs in background.",
+      "PACKAGE_NAME": "cl.diego.patrimonio"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "cl.diego.patrimonio"
+    }
+  },
+  "dependent_plugins": {}
+}

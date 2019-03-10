@@ -1,0 +1,37 @@
+{
+    "name": "cl.diego.patrimonio",
+    "displayName": "Patrimonio2",
+    "version": "1.0.0",
+    "description": "A sample Apache Cordova application that responds to the deviceready event.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Apache Cordova Team",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "cordova-android": "^7.1.4",
+        "cordova-ios": "^4.5.5",
+        "cordova-plugin-geolocation": "^4.0.1",
+        "cordova-plugin-googlemaps": "^2.5.2",
+        "cordova-plugin-whitelist": "^1.3.3"
+    },
+    "cordova": {
+        "plugins": {
+            "cordova-plugin-whitelist": {},
+            "cordova-plugin-googlemaps": {
+                "API_KEY_FOR_ANDROID": "AIzaSyBsqOcSBoso9JyRgAVXBpJW7vwGpbJ1Jew",
+                "API_KEY_FOR_IOS": "AIzaSyBsqOcSBoso9JyRgAVXBpJW7vwGpbJ1Jew",
+                "PLAY_SERVICES_VERSION": "15.0.1",
+                "ANDROID_SUPPORT_V4_VERSION": "27.+",
+                "LOCATION_WHEN_IN_USE_DESCRIPTION": "This app wants to get your location while this app runs only.",
+                "LOCATION_ALWAYS_USAGE_DESCRIPTION": "This app wants to get your location always, even this app runs in background."
+            },
+            "cordova-plugin-geolocation": {}
+        },
+        "platforms": [
+            "ios",
+            "android"
+        ]
+    }
+}
