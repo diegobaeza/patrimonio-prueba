@@ -42,6 +42,8 @@ var app = {
             crearMapa(location);
           })
 
+          
+
         }
 
         //Observador de posicion
@@ -169,7 +171,10 @@ function calcularDistanciaPuntos(latLng){
     var distancia = plugin.google.maps.geometry.spherical.computeDistanceBetween(latLng, puntos[locIndex].position);
 
     if(distancia < 100){
-      alert("El patrimonio " + puntos[locIndex].title+" esta a "+ distancia + " metros");
+      cordova.plugins.notification.local.schedule({
+        id: 1,
+        text: "Patrimonio cercano",
+      });
     }
 
   }

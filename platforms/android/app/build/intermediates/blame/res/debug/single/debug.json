@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/build/intermediates/res/merged/debug/xml_localnotification_provider_paths.xml.flat",
+        "source": "/Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/res/xml/localnotification_provider_paths.xml"
+    },
+    {
         "merged": "/Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-xhdpi_screen.png.flat",
         "source": "/Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/res/drawable-land-xhdpi/screen.png"
     },
@@ -64,12 +68,12 @@
         "source": "/Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/959b108fbf3bca4b6e4f54b356cb70b9/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
-        "merged": "/Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f1279b2ec4660fb4404de80d9fbf4322/res/drawable-hdpi-v4/notification_bg_normal.9.png"
-    },
-    {
         "merged": "/Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
         "source": "/Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/959b108fbf3bca4b6e4f54b356cb70b9/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f1279b2ec4660fb4404de80d9fbf4322/res/drawable-hdpi-v4/notification_bg_normal.9.png"
     },
     {
         "merged": "/Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
@@ -88,12 +92,12 @@
         "source": "/Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/959b108fbf3bca4b6e4f54b356cb70b9/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
     },
     {
-        "merged": "/Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f1279b2ec4660fb4404de80d9fbf4322/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
-    },
-    {
         "merged": "/Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "/Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f1279b2ec4660fb4404de80d9fbf4322/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f1279b2ec4660fb4404de80d9fbf4322/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
         "merged": "/Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-mdpi_screen.png.flat",
@@ -136,12 +140,12 @@
         "source": "/Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f1279b2ec4660fb4404de80d9fbf4322/res/layout-v21/notification_template_icon_group.xml"
     },
     {
-        "merged": "/Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_icon.png.flat",
-        "source": "/Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/res/mipmap-mdpi/icon.png"
-    },
-    {
         "merged": "/Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-mdpi_screen.png.flat",
         "source": "/Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/res/drawable-port-mdpi/screen.png"
+    },
+    {
+        "merged": "/Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_icon.png.flat",
+        "source": "/Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/res/mipmap-mdpi/icon.png"
     },
     {
         "merged": "/Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_full_open_on_phone.png.flat",

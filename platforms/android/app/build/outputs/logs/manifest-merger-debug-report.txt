@@ -1,10 +1,22 @@
 -- Merging decision tree log ---
+provider#de.appplant.cordova.plugin.notification.util.AssetProvider
+INJECTED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:15:9-17:20
+	android:grantUriPermissions
+		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:15:92-126
+	android:authorities
+		INJECTED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:15:19-66
+	android:exported
+		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:15:67-91
+	android:name
+		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:15:127-200
 manifest
-ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
+ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:2:1-37:12
 MERGED from [:tbxml-android:] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/tbxml-android.aar/d5a8d8a818df8106abcab1e9fd66093e/AndroidManifest.xml:2:1-11:12
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:2:1-52:12
 MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/bafa549bdc3d7ccacaf00f01c89fa703/AndroidManifest.xml:17:1-32:12
 MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/09d71399485594d2919c50b3d9c0788c/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/959b108fbf3bca4b6e4f54b356cb70b9/AndroidManifest.xml:17:1-29:12
@@ -19,9 +31,9 @@ MERGED from [com.android.support:support-media-compat:26.1.0] /Users/diegobaeza/
 MERGED from [com.android.support:support-core-ui:26.1.0] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e5f8d6f631bd905f407d08fe8ac36113/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:27.1.1] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f1279b2ec4660fb4404de80d9fbf4322/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/789717840d68d5ce4d9314fa4f9a0169/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:2:1-37:12
 	package
 		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:2:102-131
 		INJECTED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml
@@ -59,7 +71,7 @@ MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/diegobaeza
 	android:name
 		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:4:22-64
 application
-ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:5:5-15:19
+ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:5:5-27:19
 MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/bafa549bdc3d7ccacaf00f01c89fa703/AndroidManifest.xml:30:5-20
 MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/bafa549bdc3d7ccacaf00f01c89fa703/AndroidManifest.xml:30:5-20
 MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/09d71399485594d2919c50b3d9c0788c/AndroidManifest.xml:7:5-20
@@ -134,11 +146,49 @@ ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/andro
 		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:14:61-85
 	android:name
 		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:14:23-60
+receiver#de.appplant.cordova.plugin.localnotification.TriggerReceiver
+ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:18:9-122
+	android:exported
+		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:18:19-43
+	android:name
+		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:18:44-119
+receiver#de.appplant.cordova.plugin.localnotification.ClearReceiver
+ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:19:9-120
+	android:exported
+		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:19:19-43
+	android:name
+		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:19:44-117
+service#de.appplant.cordova.plugin.localnotification.ClickReceiver
+ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:20:9-119
+	android:exported
+		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:20:18-42
+	android:name
+		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:20:43-116
+receiver#de.appplant.cordova.plugin.localnotification.RestoreReceiver
+ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:21:9-26:20
+	android:exported
+		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:21:50-74
+	android:directBootAware
+		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:21:19-49
+	android:name
+		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:21:75-150
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.LOCKED_BOOT_COMPLETED
+ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:22:13-25:29
+action#android.intent.action.LOCKED_BOOT_COMPLETED
+ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:23:17-86
+	android:name
+		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:23:25-83
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:24:17-79
+	android:name
+		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:24:25-76
 uses-sdk
-ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:16:5-74
-INJECTED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:16:5-74
+ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:28:5-74
+INJECTED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:28:5-74
 MERGED from [:tbxml-android:] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/tbxml-android.aar/d5a8d8a818df8106abcab1e9fd66093e/AndroidManifest.xml:7:5-9:41
 MERGED from [:tbxml-android:] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/tbxml-android.aar/d5a8d8a818df8106abcab1e9fd66093e/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/bafa549bdc3d7ccacaf00f01c89fa703/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/bafa549bdc3d7ccacaf00f01c89fa703/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/09d71399485594d2919c50b3d9c0788c/AndroidManifest.xml:5:5-44
@@ -167,45 +217,123 @@ MERGED from [com.android.support:support-compat:27.1.1] /Users/diegobaeza/.gradl
 MERGED from [com.android.support:support-compat:27.1.1] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f1279b2ec4660fb4404de80d9fbf4322/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/789717840d68d5ce4d9314fa4f9a0169/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/789717840d68d5ce4d9314fa4f9a0169/AndroidManifest.xml:20:5-44
-INJECTED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:16:5-74
+INJECTED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:28:5-74
 	tools:overrideLibrary
 		ADDED from [com.android.support:support-v4:26.1.0] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b65436bfd1e3219ba7f27d4bdf00a843/AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
-		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:16:42-71
+		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:28:42-71
 	android:minSdkVersion
-		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:16:15-41
+		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:28:15-41
 		INJECTED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:17:5-79
+ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:29:5-79
 MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/bafa549bdc3d7ccacaf00f01c89fa703/AndroidManifest.xml:23:5-79
 MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/bafa549bdc3d7ccacaf00f01c89fa703/AndroidManifest.xml:23:5-79
 	android:name
-		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:17:22-76
+		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:29:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:18:5-81
+ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:30:5-81
 	android:name
-		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:18:22-78
+		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:30:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:19:5-79
+ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:31:5-79
 	android:name
-		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:19:22-76
+		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:31:22-76
 uses-feature#0x00020000
-ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:20:5-78
+ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:32:5-78
 MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/bafa549bdc3d7ccacaf00f01c89fa703/AndroidManifest.xml:26:5-28:35
 MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/bafa549bdc3d7ccacaf00f01c89fa703/AndroidManifest.xml:26:5-28:35
 	android:glEsVersion
-		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:20:19-51
+		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:32:19-51
 	android:required
-		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:20:52-75
+		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:32:52-75
 uses-feature#android.hardware.location
-ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:21:5-62
+ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:33:5-62
 	android:name
-		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:21:19-59
+		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:33:19-59
 uses-feature#android.hardware.location.gps
-ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:22:5-66
+ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:34:5-66
 	android:name
-		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:22:19-63
+		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:34:19-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:35:5-81
+	android:name
+		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:35:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:36:5-68
+	android:name
+		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:36:22-65
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:16:13-134
+	android:resource
+		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:16:75-131
+	android:name
+		ADDED from /Users/diegobaeza/Documents/pruebacordova/patrimonio2/platforms/android/app/src/main/AndroidManifest.xml:16:24-74
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:46:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:49:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:50:5-89
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/816a8e06be159bf3e6d4a0701868f6ba/AndroidManifest.xml:50:22-86
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/diegobaeza/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/959b108fbf3bca4b6e4f54b356cb70b9/AndroidManifest.xml:23:9-26:75
 	android:exported

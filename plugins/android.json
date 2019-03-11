@@ -18,7 +18,18 @@
     },
     "cordova-plugin-geolocation": {
       "PACKAGE_NAME": "cl.diego.patrimonio"
+    },
+    "cordova-plugin-local-notification": {
+      "ANDROID_SUPPORT_V4_VERSION": "26.+",
+      "PACKAGE_NAME": "cl.diego.patrimonio"
     }
   },
-  "dependent_plugins": {}
+  "dependent_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "cl.diego.patrimonio"
+    },
+    "cordova-plugin-badge": {
+      "PACKAGE_NAME": "cl.diego.patrimonio"
+    }
+  }
 }
